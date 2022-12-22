@@ -68,6 +68,10 @@ main {
     margin-bottom: 20px;
 }
 
+.user_name {
+    color: #cd232e;
+}
+
 p{
     width: 420px;
     font-size: 21px;

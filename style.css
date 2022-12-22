@@ -111,6 +111,10 @@ img {
         margin-bottom: 20px;
     }
 
+    .user_name {
+        color: #cd232e;
+    }
+
     .left {
         grid-row-start:2;
         text-align: center;
